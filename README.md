@@ -1,5 +1,5 @@
 - 👋 Ola, Sou Allan Ribas.
-- 👀 Sou apaixonado por tecnologia, lógica e algoritimos.
+- 👀 Sou apaixonado por tecnologia, lógica e algoritmos.
 - 🌱 Estou atualmente desenvolvendo projetos Android e criando ferramentas para automatizar meu trabalho. 
 - 💞️ Disponível em colaborar em projetos que envolvam programação.
 - 📫 Fale comigo encontrando todos meus perfis em https://www.allanksr.com/
